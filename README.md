@@ -22,3 +22,5 @@ To make global educational content accessible to Uzbek-speaking audiences.
 ## Disclaimer
 This is a non-commercial, educational project.
 All original content belongs to TED.
+## Final Output
+- Uzbek voice-over video (YouTube): 
