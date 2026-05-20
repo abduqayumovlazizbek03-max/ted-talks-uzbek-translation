@@ -1,0 +1,3 @@
+- Translation done by Aduqayumov Lazizbek,Obidjonov Hojiakbar
+- Educational and non-commercial purpose
+- Voice-over synchronized manually
